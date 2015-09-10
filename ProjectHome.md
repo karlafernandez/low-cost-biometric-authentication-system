@@ -1,0 +1,7 @@
+Our main intention of doing this project is to develop artificial Beagle-Eye using Beagleboard and web camera to help blind person in recognizing  people.In real time there is a possibility to counterfeit the visually impaired people by mimicking voice, with the help of artificial eye  technology we can make them more mightier than they used to be.
+
+In this project we are going to implement one of the functions of the human vision system. Beagleboard is low power embedded computing system, and it is well suited for less complex algorithms implementation.Our main work involves in developing lightweight algorithms for Beagleboard, and fusing matching scores of different biometric modalities to achieve optimum performance in real time.We are going to use face and iris data of people to establish their identity, and the identity result informed to the blind person using head phone.
+
+At the end of project we will be having Beagle-Eye for visually impaired people.This Beagle-Eye platform is going to be Open source embedded platform to implement vision algorithms in real time.
+
+The above model of Biometric system can also be used at room entrance,airport entrance scenarios to detect intruders and terrorists.
